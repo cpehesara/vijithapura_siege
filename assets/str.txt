@@ -1,0 +1,26 @@
+Folder PATH listing for volume New Volume
+Volume serial number is C422-C9D8
+D:.
+|   .gitkeep
+|   assets.txt
+|   str.txt
+|   
++---buildings
+|       barracks.png
+|       command_center.png
+|       resource_depot.png
+|       
++---resources
+|       stone.png
+|       tree.png
+|       wood_pile.png
+|       
++---terrain
+|       grass_tile.png
+|       
+\---units
+        champion.png
+        elephant.png
+        soldier.png
+        worker.png
+        
